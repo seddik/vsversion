@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "VSVersion": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:\\Code\\oecole3\\oEcole.Model|3.yyyy.MMdd.*\""
+    }
+  }
+}
