@@ -1,4 +1,4 @@
-# VSVersion automatic Visual studio version changer
+# VSVersion automatic .NET App C# version changer
 
 Use Post-Build to set the version to your liking here is an example : 
 
